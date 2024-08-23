@@ -15,5 +15,9 @@ for i in range(3):
 
 print("Though it made learning more fun and encouraging")
 
+import greetings
+print(greetings.greet("Elizabeth"))
+
+
 
  
